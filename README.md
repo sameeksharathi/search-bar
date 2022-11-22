@@ -1,6 +1,5 @@
-Search-bar
+ # Search-bar
 
-Data - http://www.mocky.io/v2/5ba8efb23100007200c2750c . 
 1. On typing in the search input box, the search results list opens up. The search could be just a string matching search.
 2. Matching text should be highlighted in blue color as displayed in the search result list UI
 3. If a search query is found in items, then it should show “{{queryValue}} found in items”, as displayed in
@@ -12,3 +11,6 @@ the search result list UI. Eg: “john” found in items
 8. When no search results are found, an empty card is displayed
 9. The card list would be scrollable
 10. The highlighted card (via keyboard/mouse) will scroll into view
+
+
+### Data - http://www.mocky.io/v2/5ba8efb23100007200c2750c
