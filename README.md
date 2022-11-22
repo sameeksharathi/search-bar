@@ -1,4 +1,4 @@
-##Search-bar
+Search-bar
 
 Data - http://www.mocky.io/v2/5ba8efb23100007200c2750c . 
 1. On typing in the search input box, the search results list opens up. The search could be just a string matching search.
